@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f6f8">
+  <meta name="description" content="An interactive data story about all 18 episodes of The Inbetweeners.">
+  <title>The Inbetweeners, by the numbers</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800;900&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top"><span>The Inbetweeners <small>A study in poor decisions</small></span></a>
+    <nav aria-label="Main navigation"><a href="#language">Language</a><a href="#the-grid">Episodes</a><a href="#swear-jar">Swear jar</a><a href="#method">Sources</a></nav>
+    <span class="header-note">The original UK series · 2008–2010</span>
+  </header>
+  <main id="top">
+    <section class="hero section-pad">
+      <div class="hero-copy"><h1>THE INBETWEENERS</h1><p class="hero-deck">By the numbers.</p><p class="hero-intro">Four mates. Three series. Eighteen episodes. Explore what they said, how often they swore, and which episodes earned their marks.</p><a class="round-link" href="#language">Explore the language <span>↘</span></a></div>
+      <div class="hero-bottom"><span>SCROLL TO INVESTIGATE ↓</span><span>18 episodes. Every word counted.</span></div>
+    </section>
+
+    <section class="stat-strip" aria-label="Show at a glance"><div><strong>03</strong><span>SERIES</span></div><div><strong>18</strong><span>EPISODES</span></div><div><strong>08–10</strong><span>YEARS ON AIR</span></div><div><strong id="overall-rating">8.2</strong><span>MEAN EPISODE RATING / 10</span></div></section>
+
+    <section id="the-grid" class="section-pad grid-section"><div class="section-head"><h2>THE CLASS<br><em>REGISTER.</em></h2><p>Every square is an episode. Darker ink means a higher IMDb user rating. Select one to inspect it below.</p></div><div class="grid-layout"><div class="legend"><span>LOWER RATED</span><div class="legend-scale"></div><span>HIGHER RATED</span></div><div id="episode-grid" class="episode-grid" role="group" aria-label="Episode ratings by series and episode number"></div><p class="grid-note">A score is a snapshot of viewer ratings, not a verdict on how funny an episode is.</p></div></section>
+
+    <section id="the-run" class="section-pad run-section"><div class="section-head"><h2>THREE YEARS.<br><em>NO GROWING UP.</em></h2><p>The audience score never falls below 7.7. The biggest leaps and dips sit inside the run, rather than between series.</p></div><div class="chart-shell"><div class="chart-top"><span>IMDb EPISODE RATING / AIR ORDER</span><span>● EACH DOT IS ONE EPISODE</span></div><svg id="ratings-chart" role="img" aria-label="Line chart of IMDb episode ratings in air order"></svg><div class="chart-bottom"><span>SERIES ONE · 2008</span><span>SERIES TWO · 2009</span><span>SERIES THREE · 2010</span></div></div><div class="insight-row" id="insights"></div></section>
+
+    <section class="section-pad podium-section"><div class="section-head"><h2>WHO TOPS<br><em>THE CLASS?</em></h2><p>Series averages are close. Click a series to see its six episodes in the file.</p></div><div id="series-bars" class="series-bars"></div></section>
+
+    <section id="episode-file" class="section-pad file-section"><div class="section-head"><h2>THE EPISODE<br><em>FILE.</em></h2><p>Pick a series, then an episode. The ratings and air dates are sourced; the annotations are our own.</p></div><div class="file-controls" role="group" aria-label="Filter episodes by series"><button class="filter active" data-season="all">ALL 18</button><button class="filter" data-season="1">SERIES 01</button><button class="filter" data-season="2">SERIES 02</button><button class="filter" data-season="3">SERIES 03</button></div><div class="file-layout"><div id="episode-list" class="episode-list"></div><article id="episode-detail" class="episode-detail" aria-live="polite"></article></div></section>
+
+    <section id="language" class="section-pad language-section"><div class="section-head"><h2>A LOT OF<br><em>BOLLOCKS.</em></h2><p>The episode transcripts contain <strong id="word-total">73,287</strong> words. Track a word across the entire run, or pick one of the usual suspects.</p></div><div class="word-controls"><label for="word-input">FIND A WORD IN THE TRANSCRIPTS</label><div class="word-entry"><input id="word-input" type="search" value="friend" placeholder="Try a word…" maxlength="30" autocomplete="off"><button id="word-search">TRACK IT ↗</button></div><div class="suggestions"><button data-word="friend">FRIEND</button><button data-word="briefcase">BRIEFCASE</button><button data-word="carli">CARLI</button><button data-word="wanker">WANKER</button><button data-word="sorry">SORRY</button></div></div><div class="word-result"><div class="word-summary"><span>ACROSS ALL 18 EPISODES</span><strong id="word-count">—</strong><span id="word-caption">OCCURRENCES OF “FRIEND”</span></div><div id="word-chart" class="word-chart" role="img" aria-label="Occurrences of searched word by episode"></div></div><p class="data-caution">Counts are exact whole-word matches in third-party transcripts. Spelling and transcription errors can affect them.</p></section>
+
+    <section id="swear-jar" class="section-pad swear-section"><div class="section-head"><h2>MIND YOUR<br><em>LANGUAGE.</em></h2><p>Which episode is most foul-mouthed? This ranks a small, explicit dictionary of insults and swear words per 1,000 transcript words.</p></div><div class="swear-layout"><div class="swear-intro"><span class="swear-big" id="swear-leader-rate">—</span><p>dictionary matches per 1,000 words in <strong id="swear-leader-name">—</strong>, the highest in the run.</p><div class="swear-terms">MATCHED WORDS: fuck, fucking, shit, shitting, wank, wanker, wanking, bollocks, dickhead, twat, arsehole, bastard, piss.</div></div><div id="swear-bars" class="swear-bars"></div></div></section>
+
+    <section id="method" class="section-pad method-section"><div><h2>THE<br><em>RECEIPTS.</em></h2></div><div class="method-copy"><p>This covers the original UK television series: three series, six episodes each. Films, specials and the US remake are excluded.</p><p>Episode titles and original air dates come from <a href="https://www.tvmaze.com/shows/953/the-inbetweeners/episodes" target="_blank" rel="noopener noreferrer">TVmaze</a>. The 18 user scores were recorded from <a href="https://www.imdb.com/title/tt1220617/ratings/" target="_blank" rel="noopener noreferrer">IMDb’s episode ratings grid</a> on 28 October 2026. Ratings change over time. Means here are simple averages of the displayed one-decimal scores, not weighted by vote count.</p><p>Word counts come from <a href="https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=the-inbetweeners" target="_blank" rel="noopener noreferrer">Springfield’s episode transcripts</a>. We lowercased and split text into words, counting exact matches. The transcripts contain occasional spelling errors and unlabelled speakers; our counts are approximate representations of the show’s language, not a verified account of who said what. We display aggregates, not full scripts.</p><p>The visual storytelling takes inspiration from <a href="https://poc275.me/peep-show/" target="_blank" rel="noopener noreferrer">Peter O’Connor’s Peep Show project</a>. This is an independent fan project and is not affiliated with the programme or its creators.</p></div></section>
+  </main><footer><span>THE INBETWEENERS, BY THE NUMBERS</span><a href="#top">BACK TO TOP ↑</a><span>AN UNOFFICIAL DATA EXPERIMENT · 2026</span></footer>
+</body></html>
