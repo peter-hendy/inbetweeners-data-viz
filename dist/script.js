@@ -91,8 +91,12 @@ function renderSwearJar() {
   document.querySelectorAll('.swear-row').forEach(button=>button.addEventListener('click',()=>{selectEpisode(episodes[Number(button.dataset.episode)]);document.querySelector('#episode-file').scrollIntoView({behavior:'smooth'});}));
 }
 
-async function loadTranscripts() {
-  try {const response=await fetch('transcripts.json');if(!response.ok)throw new Error('Transcript data unavailable');transcripts=await response.json();document.querySelector('#word-total').textContent=transcripts.reduce((sum,episode)=>sum+episode.wordCount,0).toLocaleString();renderWord('friend');renderSwearJar();selectEpisode(selectedEpisode);} catch(error) {document.querySelector('#word-chart').textContent='Transcript data could not be loaded.';document.querySelector('#swear-bars').textContent='Transcript data could not be loaded.';}
+function loadTranscripts() {
+  transcripts=transcriptData;
+  document.querySelector('#word-total').textContent=transcripts.reduce((sum,episode)=>sum+episode.wordCount,0).toLocaleString();
+  renderWord('friend');
+  renderSwearJar();
+  selectEpisode(selectedEpisode);
 }
 
 renderGrid();renderTimeline();renderInsights();renderEpisodeList();
