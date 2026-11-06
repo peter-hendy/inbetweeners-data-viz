@@ -1,0 +1,7057 @@
+{
+  "episodeId": "S01E05",
+  "sourceUrl": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-inbetweeners&episode=s01e05",
+  "sourceSha256": "2872427bf5ecf6219dfb03c14b0ab82fd6ea9cc633d45e018f779a8fdb86153f",
+  "status": "model_contextual_first_pass",
+  "audioVerified": false,
+  "segments": [
+    {
+      "sourceIndex": 1,
+      "originalText": "'Hi, I'm Will, and as a special treat  'I now get to finish my A-Levels at a state comprehensive.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 97,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 2,
+      "originalText": "'  - Posh twat.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 15,
+          "speakerId": "character:mark-donovan",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 3,
+      "originalText": "- 'Everyone's made me feel very welcome.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 40,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 4,
+      "originalText": "'  Briefcase wanker.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "character:mark-donovan",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 5,
+      "originalText": "'I have made some friends.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 26,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 6,
+      "originalText": "'  Oh, friend!  'Unfortunately, it turns out they're bigger losers than me  ' which means, while other people get to play pool and hang out, I get to  'spend my free periods tied to a chair with a rubbish bin on my head.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 16,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 16,
+          "end": 220,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 7,
+      "originalText": "'  What happened to you?  - I tripped.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 26,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 26,
+          "end": 38,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 8,
+      "originalText": "- Really?  No, not really, Neil.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 11,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 11,
+          "end": 32,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 9,
+      "originalText": "Donovan's tied me to a chair.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 29,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 10,
+      "originalText": "He says no-one's allowed to touch me.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 37,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 11,
+      "originalText": "The prick.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 10,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 12,
+      "originalText": "Just so you know, he's stood about 10 foot away from us.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 56,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 13,
+      "originalText": "Shit.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 5,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 14,
+      "originalText": "He didn't hear that, did he?  Yep, he's heard that one.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 30,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 30,
+          "end": 55,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 15,
+      "originalText": "- Come on, we'll get you out.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 29,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 16,
+      "originalText": "- Better not, Neil.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 19,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 17,
+      "originalText": "Sorry, we're not allowed to untie you.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 38,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 18,
+      "originalText": "Eair enough.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 19,
+      "originalText": "- So what are we up to this weekend? - We could go to Bluewater.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 37,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 37,
+          "end": 64,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 20,
+      "originalText": "A shopping centre? Great.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 25,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 21,
+      "originalText": "You know how much I love chavs.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 31,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 22,
+      "originalText": "Bluewater's not chawy.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 23,
+      "originalText": "It's quality.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 13,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 24,
+      "originalText": "I go there all the time.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 24,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 25,
+      "originalText": "I rest my case.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 15,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 26,
+      "originalText": "To be fair, they've now got a Nando's.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 38,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 27,
+      "originalText": "The hallmark of quality!  I actually like Nando's.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 26,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 26,
+          "end": 50,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 28,
+      "originalText": "Well, whatever you lot get up to this weekend, I won't be there.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 64,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 29,
+      "originalText": "Oh, no! Who will supply the witticisms(?)  I'll be up to my nuts in some guts,  shagging those two sisters from Caravan Club.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 43,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 43,
+          "end": 125,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 30,
+      "originalText": "It's the Camber Sands meeting, which is always like a massive orgy.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 67,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 31,
+      "originalText": "Except it's not, though, is it? It's holidays for old people.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 61,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 32,
+      "originalText": "I'm sorry, did someone say something?  Was Bin Boy giving it the big 'un?  It's funny how you never get any girls around here,  yet away on Caravan Club you're like some sort of gypsy Russell Brand.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 75,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 75,
+          "end": 198,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 33,
+      "originalText": "I wouldn't shag any of the skanky girls  around here, mate.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 59,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 34,
+      "originalText": "Except for your mum, obviously.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 31,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 35,
+      "originalText": "- Get in the queue! - Brilliant.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 20,
+          "end": 32,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 36,
+      "originalText": "If you don't believe me, then you lot should come down  to Camber Sands.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 72,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 37,
+      "originalText": "Even Bin Boy might get some sex!  All right.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 34,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 34,
+          "end": 44,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 38,
+      "originalText": "I'm definitely up for that.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 27,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 39,
+      "originalText": "Yeah, love to.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 14,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 40,
+      "originalText": "Oh, you don't have to.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 41,
+      "originalText": "No, if I have to sleep in a caravan to prove you're lying,  then I'm willing to make that sacrifice.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 100,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 42,
+      "originalText": "- Eine.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 7,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 43,
+      "originalText": "- Good.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 7,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 44,
+      "originalText": "Come down.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 10,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 45,
+      "originalText": "Then we'll see who's lying.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 27,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 46,
+      "originalText": "Yes, you.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 9,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 47,
+      "originalText": "You're lying.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 13,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 48,
+      "originalText": "BELL RINGS  - Mark, can we untie him now? - No.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 12,
+          "end": 42,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 42,
+          "end": 47,
+          "speakerId": "character:mark-donovan",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 49,
+      "originalText": "Sorry, mate.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 50,
+      "originalText": "See you at lunch.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 51,
+      "originalText": "- See you then.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 15,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 52,
+      "originalText": "- Oh, shit, it's Gilbert.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 25,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 53,
+      "originalText": "Good, now Donovan's in trouble.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 31,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 54,
+      "originalText": "- Don't grass.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 14,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 55,
+      "originalText": "- Cooper, Sutherland, Cartwright,  and who have we under here?  McKenzie, sir.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 64,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        },
+        {
+          "start": 64,
+          "end": 78,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 56,
+      "originalText": "Let me guess, no-one saw how this happened.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 43,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 57,
+      "originalText": "I suppose you tripped.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 58,
+      "originalText": "No, sir, what happened was  Sorry, McKenzie, you're about to grass, are you?  Sir?  If there's one thing no-one likes, it's a grass.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 28,
+          "end": 78,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        },
+        {
+          "start": 78,
+          "end": 84,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 84,
+          "end": 132,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 59,
+      "originalText": "So I will ask you how this happened and you will reply, \"I tripped.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 67,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 60,
+      "originalText": "\"  But sir, if no-one reported crimes, the justice system would collapse  - and - I'll ask you again.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 3,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        },
+        {
+          "start": 3,
+          "end": 80,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 80,
+          "end": 101,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 61,
+      "originalText": "How did this happen?  I tripped.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        },
+        {
+          "start": 22,
+          "end": 32,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 62,
+      "originalText": "Clumsy.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 7,
+          "speakerId": "character:mr-gilbert",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:phil-gilbert"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 63,
+      "originalText": "Thanks to Gilbert's disdain for informers,  I was left tied to the chair for the rest of the day.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 97,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 64,
+      "originalText": "Guys?  The one good thing is we called Jay's bluff.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 7,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 7,
+          "end": 51,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 65,
+      "originalText": "This was the classic win-win situation.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 39,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 66,
+      "originalText": "If by some miracle, Caravan Club  was full of girls, then we might get laid, but if it was full of weird old  people and chavs, which it would be, then Jay would never live it down,  so with high hopes, we hit the open road in Simon's shitty little yellow car.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 260,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 67,
+      "originalText": "How fast can this thing go, then, do you reckon?  It's the special edition, so I reckon it could probably top a ton.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 50,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 50,
+          "end": 116,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 68,
+      "originalText": "Bollocks.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 9,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 69,
+      "originalText": "Easily could.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 13,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 70,
+      "originalText": "It's a pretty good car.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 23,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 71,
+      "originalText": "I thought your dad had forbidden you from going over 50.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 56,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 72,
+      "originalText": "He's not here, is he?  - And it couldn't do it anyway.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 23,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 23,
+          "end": 54,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 73,
+      "originalText": "- Right, we'll see.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 19,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 74,
+      "originalText": "We could leave it there.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 24,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 75,
+      "originalText": "Go on, Si!  Oh, my God, we're gonna die!  Simon, if you survive and I don't, give this message to my Mum -  \"Simon killed me.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 12,
+          "end": 125,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 76,
+      "originalText": "\"  My arms are hurting a bit now.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 33,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 77,
+      "originalText": "- Oh, thank Christ.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 19,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 78,
+      "originalText": "- Told you.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 11,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 79,
+      "originalText": "Yeah, not too bad.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 18,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 80,
+      "originalText": "MOBILE RINGTONE  Can you get that?  It's from Jay.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 17,
+          "end": 36,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 36,
+          "end": 50,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 81,
+      "originalText": "No idea what it says, but I'm pretty sure it's not English.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 59,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 82,
+      "originalText": "There's an I, then an H, then a V.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 34,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 83,
+      "originalText": "Give it here.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 13,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 84,
+      "originalText": "He says he wants us to pick him up at the garage just outside Camber Sands  and he'll show us how to get to the caravan park.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 125,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 85,
+      "originalText": "Thank you, Dr Dolittle.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 23,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 86,
+      "originalText": "What?  Cos he talks to the animals.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 7,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 7,
+          "end": 35,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 87,
+      "originalText": "I'm not following you.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 88,
+      "originalText": "MUSIC PLAYS: Bleeding Love by Leona Lewis  Oh, and he's also buying a jumbo pack of ribbed johnnies.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 43,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 43,
+          "end": 100,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 89,
+      "originalText": "Does anyone else need some?  Despite Simon's best efforts, we made it to Camber Sands alive.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 29,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 29,
+          "end": 92,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 90,
+      "originalText": "We'd arranged to meet Jay at the service station,  and though Simon could just about drive a car, getting petrol into it  still remained a mystery.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 147,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 91,
+      "originalText": "Christ, I forgot about this shitheap.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 37,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 92,
+      "originalText": "I don't think even I could help you get laid in that.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 53,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 93,
+      "originalText": "Have you ever used one of these before?  It's fucking broken.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 41,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 41,
+          "end": 61,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 94,
+      "originalText": "This should reach.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 18,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 95,
+      "originalText": "Are you sure you actually passed your test?  Yes.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 45,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 45,
+          "end": 49,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 96,
+      "originalText": "How many times did you have to suck off the instructor?!  You want to park it a bit closer, Si.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 57,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "How many times did you have to suck off the instructor?! ",
+          "speakers": [
+            "jay"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:96",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 0,
+            "fragment": {
+              "start": 0,
+              "end": 57,
+              "speakers": [
+                "jay"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 57,
+          "end": 58,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": " ",
+          "speakers": [
+            "neil"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:96",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 1,
+            "fragment": {
+              "start": 57,
+              "end": 95,
+              "speakers": [
+                "neil"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 58,
+          "end": 95,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "You want to park it a bit closer, Si.",
+          "speakers": [
+            "neil"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:96",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 1,
+            "fragment": {
+              "start": 57,
+              "end": 95,
+              "speakers": [
+                "neil"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        }
+      ],
+      "originalProposedTurns": [
+        {
+          "start": 0,
+          "end": 58,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 58,
+          "end": 95,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ],
+      "humanReview": {
+        "id": "S01E05:segment:96",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 57,
+            "speakers": [
+              "jay"
+            ]
+          },
+          {
+            "start": 57,
+            "end": 95,
+            "speakers": [
+              "neil"
+            ]
+          }
+        ],
+        "initialAnswer": {
+          "fragments": [
+            {
+              "start": 0,
+              "end": 57,
+              "speakers": [
+                "jay"
+              ]
+            },
+            {
+              "start": 57,
+              "end": 95,
+              "speakers": [
+                "neil"
+              ]
+            }
+          ],
+          "savedAt": "2026-11-06T20:03:07.524Z"
+        },
+        "revisions": [],
+        "skipped": false,
+        "state": "user_saved",
+        "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+        "offsetEncoding": "utf16"
+      }
+    },
+    {
+      "sourceIndex": 97,
+      "originalText": "- Yeah, thanks, Neil.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 98,
+      "originalText": "- Pump number six, please park closer.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 38,
+          "speakerId": "character:petrol-station-attendant",
+          "kind": "speech",
+          "identityType": "episode_scoped_role",
+          "sourceSpeakerId": "character:petrol-station-attendant",
+          "actor": {
+            "id": "actor:racheal-joseph",
+            "name": "Racheal Joseph"
+          },
+          "speakers": [
+            "character:petrol-station-attendant"
+          ],
+          "resolutionHistory": [
+            {
+              "before": {
+                "start": 0,
+                "end": 38,
+                "speakerId": "character:petrol-station-attendant:s01e05",
+                "kind": "speech",
+                "attributionBasis": "show_context",
+                "identityType": "episode_scoped_role",
+                "sourceSpeakerId": "character:petrol-station-attendant"
+              },
+              "after": {
+                "start": 0,
+                "end": 38,
+                "speakerId": "character:petrol-station-attendant",
+                "kind": "speech",
+                "identityType": "episode_scoped_role",
+                "sourceSpeakerId": "character:petrol-station-attendant",
+                "actor": {
+                  "id": "actor:racheal-joseph",
+                  "name": "Racheal Joseph"
+                },
+                "speakers": [
+                  "character:petrol-station-attendant"
+                ]
+              },
+              "resolution": {
+                "speakers": [
+                  "character:petrol-station-attendant"
+                ],
+                "aliases": [
+                  {
+                    "episodeId": "S01E05",
+                    "sourceIndices": [
+                      98,
+                      103,
+                      144
+                    ],
+                    "from": "character:petrol-station-attendant:s01e05",
+                    "to": "character:petrol-station-attendant",
+                    "actor": {
+                      "id": "actor:racheal-joseph",
+                      "name": "Racheal Joseph"
+                    },
+                    "evidence": {
+                      "basis": "episode-scoped dialogue role plus credited cast",
+                      "reason": "Segments 98/103 address pump number six; segment 144 serves the purchase at the station. Exact credited role/scene match.",
+                      "castSourceId": "british-comedy-guide-tv-cast",
+                      "transcriptSourceUrl": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-inbetweeners&episode=s01e05"
+                    },
+                    "sourceArtifact": "cast-role-mappings.json"
+                  }
+                ],
+                "evidence": [
+                  {
+                    "basis": "episode-scoped dialogue role plus credited cast",
+                    "reason": "Segments 98/103 address pump number six; segment 144 serves the purchase at the station. Exact credited role/scene match.",
+                    "castSourceId": "british-comedy-guide-tv-cast",
+                    "transcriptSourceUrl": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-inbetweeners&episode=s01e05"
+                  }
+                ],
+                "actor": {
+                  "id": "actor:racheal-joseph",
+                  "name": "Racheal Joseph"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceIndex": 99,
+      "originalText": "Told you.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 9,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 100,
+      "originalText": "This is embarrassing.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 101,
+      "originalText": "I'm gonna go check out the clunge mags.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 39,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 102,
+      "originalText": "Wait for me.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 103,
+      "originalText": "Pump number six, do you need assistance?  I think I might go and stretch my legs a bit, too.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 42,
+          "speakerId": "character:petrol-station-attendant",
+          "kind": "speech",
+          "identityType": "episode_scoped_role",
+          "sourceSpeakerId": "character:petrol-station-attendant",
+          "actor": {
+            "id": "actor:racheal-joseph",
+            "name": "Racheal Joseph"
+          },
+          "speakers": [
+            "character:petrol-station-attendant"
+          ],
+          "resolutionHistory": [
+            {
+              "before": {
+                "start": 0,
+                "end": 42,
+                "speakerId": "character:petrol-station-attendant:s01e05",
+                "kind": "speech",
+                "attributionBasis": "show_context",
+                "identityType": "episode_scoped_role",
+                "sourceSpeakerId": "character:petrol-station-attendant"
+              },
+              "after": {
+                "start": 0,
+                "end": 42,
+                "speakerId": "character:petrol-station-attendant",
+                "kind": "speech",
+                "identityType": "episode_scoped_role",
+                "sourceSpeakerId": "character:petrol-station-attendant",
+                "actor": {
+                  "id": "actor:racheal-joseph",
+                  "name": "Racheal Joseph"
+                },
+                "speakers": [
+                  "character:petrol-station-attendant"
+                ]
+              },
+              "resolution": {
+                "speakers": [
+                  "character:petrol-station-attendant"
+                ],
+                "aliases": [
+                  {
+                    "episodeId": "S01E05",
+                    "sourceIndices": [
+                      98,
+                      103,
+                      144
+                    ],
+                    "from": "character:petrol-station-attendant:s01e05",
+                    "to": "character:petrol-station-attendant",
+                    "actor": {
+                      "id": "actor:racheal-joseph",
+                      "name": "Racheal Joseph"
+                    },
+                    "evidence": {
+                      "basis": "episode-scoped dialogue role plus credited cast",
+                      "reason": "Segments 98/103 address pump number six; segment 144 serves the purchase at the station. Exact credited role/scene match.",
+                      "castSourceId": "british-comedy-guide-tv-cast",
+                      "transcriptSourceUrl": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-inbetweeners&episode=s01e05"
+                    },
+                    "sourceArtifact": "cast-role-mappings.json"
+                  }
+                ],
+                "evidence": [
+                  {
+                    "basis": "episode-scoped dialogue role plus credited cast",
+                    "reason": "Segments 98/103 address pump number six; segment 144 serves the purchase at the station. Exact credited role/scene match.",
+                    "castSourceId": "british-comedy-guide-tv-cast",
+                    "transcriptSourceUrl": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-inbetweeners&episode=s01e05"
+                  }
+                ],
+                "actor": {
+                  "id": "actor:racheal-joseph",
+                  "name": "Racheal Joseph"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "start": 42,
+          "end": 92,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 104,
+      "originalText": "What's so funny, then?  It's your mum in this mag.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 24,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 24,
+          "end": 50,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 105,
+      "originalText": "Yes, very droll, well done.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 27,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 106,
+      "originalText": "No, look, it really looks like your mum's face.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 47,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 107,
+      "originalText": "Heh, yes.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 9,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 108,
+      "originalText": "No!  That is definitely your mum's snatch.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 5,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 5,
+          "end": 42,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 109,
+      "originalText": "I just got a text from this girl at the Caravan Club.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 53,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 110,
+      "originalText": "- Yeah, is it Becky? - Yeah.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 21,
+          "end": 28,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 111,
+      "originalText": "I texted her your photo.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 24,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 112,
+      "originalText": "What's she say?  \"Hi, Simon, my name's Becky.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 17,
+          "end": 45,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 113,
+      "originalText": "Liked your photo.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 114,
+      "originalText": "Jay says you've  \"got a cool car as well.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 41,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 115,
+      "originalText": "See you later.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 14,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 116,
+      "originalText": "\" Smiley face.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 14,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 117,
+      "originalText": "She's seen a picture of you.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 118,
+      "originalText": "Let's get back one of her.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 26,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 119,
+      "originalText": "With her tits out.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 18,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 120,
+      "originalText": "Might be a bit early in the relationship for that, Neil.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 56,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 121,
+      "originalText": "- She Is filthy.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 16,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 122,
+      "originalText": "- Still a bit early, I reckon.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 30,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 123,
+      "originalText": "What shall I write?  \"Spread 'em.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 21,
+          "end": 33,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 124,
+      "originalText": "I'll be there in half an hour.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 30,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 125,
+      "originalText": "\"  Or, \"So lovely to hear from you, it would be a pleasure to meet up.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 70,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 126,
+      "originalText": "\"  \"PS, I'm a poofter.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 127,
+      "originalText": "\"  Don't put the PS.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 128,
+      "originalText": "All right, I've put, \"Can't wait to meet up.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 44,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 129,
+      "originalText": "\"How will I know what you look like?\" Smiley face at the end?  Smiley with a wink.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 63,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 63,
+          "end": 82,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 130,
+      "originalText": "It's cheeky.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 131,
+      "originalText": "No, the winky face is the mark of a moron.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 42,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 132,
+      "originalText": "I've sent it.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 13,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 133,
+      "originalText": "MUSIC PLAYS: Bleeding Love by Leona Lewis  Is that Leona Lewis?  It's a picture of her with her sister Suzanne.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 43,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 43,
+          "end": 65,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 65,
+          "end": 111,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 134,
+      "originalText": "- Are they kissing? - Let me see.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 20,
+          "end": 33,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 135,
+      "originalText": "Please be lesbo.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 16,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 136,
+      "originalText": "Eit enough.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 11,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 137,
+      "originalText": "I told you there was fit birds,  and there's plenty more where they came from.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 78,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 138,
+      "originalText": "I think I'm actually gonna get laid.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 36,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 139,
+      "originalText": "Oh, my God, sisters! That's so horny!  Eirst rule of Caravan Club is that everyone gets some.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 39,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 39,
+          "end": 93,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 140,
+      "originalText": "Second rule of Caravan Club is, don't tell anyone about the first rule,  cos it's a massive lie.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 96,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 141,
+      "originalText": "- We'll see about that, won't we? - Yes, we will.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 34,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 34,
+          "end": 49,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 142,
+      "originalText": "Pump number six, please, and these.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 35,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 143,
+      "originalText": "And them.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 9,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 144,
+      "originalText": "Do you want a bag for these?  OK, admittedly Jay knew some girls, but driving into the caravan park,  it didn't look like the kind of place you'd have an orgy.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 30,
+          "speakerId": "character:petrol-station-attendant",
+          "kind": "speech",
+          "identityType": "episode_scoped_role",
+          "sourceSpeakerId": "character:petrol-station-attendant",
+          "actor": {
+            "id": "actor:racheal-joseph",
+            "name": "Racheal Joseph"
+          },
+          "speakers": [
+            "character:petrol-station-attendant"
+          ],
+          "resolutionHistory": [
+            {
+              "before": {
+                "start": 0,
+                "end": 30,
+                "speakerId": "character:petrol-station-attendant:s01e05",
+                "kind": "speech",
+                "attributionBasis": "show_context",
+                "identityType": "episode_scoped_role",
+                "sourceSpeakerId": "character:petrol-station-attendant"
+              },
+              "after": {
+                "start": 0,
+                "end": 30,
+                "speakerId": "character:petrol-station-attendant",
+                "kind": "speech",
+                "identityType": "episode_scoped_role",
+                "sourceSpeakerId": "character:petrol-station-attendant",
+                "actor": {
+                  "id": "actor:racheal-joseph",
+                  "name": "Racheal Joseph"
+                },
+                "speakers": [
+                  "character:petrol-station-attendant"
+                ]
+              },
+              "resolution": {
+                "speakers": [
+                  "character:petrol-station-attendant"
+                ],
+                "aliases": [
+                  {
+                    "episodeId": "S01E05",
+                    "sourceIndices": [
+                      98,
+                      103,
+                      144
+                    ],
+                    "from": "character:petrol-station-attendant:s01e05",
+                    "to": "character:petrol-station-attendant",
+                    "actor": {
+                      "id": "actor:racheal-joseph",
+                      "name": "Racheal Joseph"
+                    },
+                    "evidence": {
+                      "basis": "episode-scoped dialogue role plus credited cast",
+                      "reason": "Segments 98/103 address pump number six; segment 144 serves the purchase at the station. Exact credited role/scene match.",
+                      "castSourceId": "british-comedy-guide-tv-cast",
+                      "transcriptSourceUrl": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-inbetweeners&episode=s01e05"
+                    },
+                    "sourceArtifact": "cast-role-mappings.json"
+                  }
+                ],
+                "evidence": [
+                  {
+                    "basis": "episode-scoped dialogue role plus credited cast",
+                    "reason": "Segments 98/103 address pump number six; segment 144 serves the purchase at the station. Exact credited role/scene match.",
+                    "castSourceId": "british-comedy-guide-tv-cast",
+                    "transcriptSourceUrl": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-inbetweeners&episode=s01e05"
+                  }
+                ],
+                "actor": {
+                  "id": "actor:racheal-joseph",
+                  "name": "Racheal Joseph"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "start": 30,
+          "end": 159,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 145,
+      "originalText": "It looked like a field with some old tents in it.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 49,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 146,
+      "originalText": "Welcome to my world.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 147,
+      "originalText": "Where are all these women, then?  There's loads.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 34,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 34,
+          "end": 48,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 148,
+      "originalText": "Just look around you.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 149,
+      "originalText": "Where?  Everywhere.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 8,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 8,
+          "end": 19,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 150,
+      "originalText": "What about her?  She's about 12, Jay.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 17,
+          "end": 37,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 151,
+      "originalText": "Nah, she's older than that.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 27,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 152,
+      "originalText": "Believe me, Christ!  What sort of camp have we come to?  Oh, here they come.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 12,
+          "end": 57,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 57,
+          "end": 76,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 153,
+      "originalText": "Becky, Suzanne.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 15,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 154,
+      "originalText": "Hi, Jay.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 8,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 155,
+      "originalText": "This is Simon I was telling you about.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 38,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 156,
+      "originalText": "Hello.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 6,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 157,
+      "originalText": "Hello.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 6,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 158,
+      "originalText": "Thanks for your text.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 159,
+      "originalText": "Nice car.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 9,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 160,
+      "originalText": "Thanks.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 7,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 161,
+      "originalText": "It's not actually from Hawaii, it just says it on the back.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 59,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 162,
+      "originalText": "I like it.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 10,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 163,
+      "originalText": "Are you guys coming to the party later?  Yeah, definitely.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 41,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 41,
+          "end": 58,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 164,
+      "originalText": "Great, I'll see you later, then.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 32,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 165,
+      "originalText": "That one has fucked everyone.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 29,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 166,
+      "originalText": "I've slung one up her a few times myself.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 41,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 167,
+      "originalText": "And who exactly is everyone, Jay?  That old man over there? Has he had a go on her?  Look, I promise you that when you go back from this place you'll be  begging your parents to buy a caravan.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 85,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 85,
+          "end": 192,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 168,
+      "originalText": "I'm not sure Neil's dad could afford a caravan.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 47,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 169,
+      "originalText": "If he thought of it as a mobile closet, I'm sure he'd find the money.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 69,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 170,
+      "originalText": "- My dad's not bent.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 171,
+      "originalText": "- We only have your word for that.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 34,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 172,
+      "originalText": "- My dad's not bent.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 173,
+      "originalText": "- Yeah, you would say that, though.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 35,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 174,
+      "originalText": "Jay.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 4,
+          "speakerId": "character:julie-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:jays-mum"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 175,
+      "originalText": "Dinner's ready.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 15,
+          "speakerId": "character:julie-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:jays-mum"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 176,
+      "originalText": "All right then, dickheads, Mum's made you tea, so park up  and I'll meet you in the caravan.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 92,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 177,
+      "originalText": "Tea in a caravan.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 178,
+      "originalText": "I've finally hit rock bottom.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 29,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 179,
+      "originalText": "There you go, boys.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 19,
+          "speakerId": "character:julie-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:jays-mum"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 180,
+      "originalText": "Some lovely salad  - to go with your sausages.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 46,
+          "speakerId": "character:julie-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:jays-mum"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 181,
+      "originalText": "- Thanks, Mrs Cartwright.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 25,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 182,
+      "originalText": "It's my pleasure.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "character:julie-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:jays-mum"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 183,
+      "originalText": "LOUD EARTING  GRUNTING AND EARTING  GRUNTING EOLLOWED BY PLOP INTO WATER  This is really delicious, Mrs Cartwright.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 74,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 74,
+          "end": 115,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 184,
+      "originalText": "MOANING AND EARTING  < Oh!  < Oooh-ooh!  Cool, crisps.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 41,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 41,
+          "end": 54,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 185,
+      "originalText": "Have you got any ketchup?  TOILET ELUSHES  Jesus Christ.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 27,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 27,
+          "end": 43,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 43,
+          "end": 56,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 186,
+      "originalText": "My eyes are burning.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 187,
+      "originalText": "All right, boys? Are you coming to the dance tonight, then?  Yes, Mr Cartwright.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 61,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 61,
+          "end": 80,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 188,
+      "originalText": "I've lined Simon up with a girl, Dad.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 37,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 189,
+      "originalText": "Einally someone's gonna take advantage of all the  birds down here! Jay's about as much use as a nun's tits.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 108,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 190,
+      "originalText": "Leave him alone, Terry, you're embarrassing him.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 48,
+          "speakerId": "character:julie-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:jays-mum"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 191,
+      "originalText": "- Delicious crisps, Mrs Cartwright.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 35,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 192,
+      "originalText": "- Thanks, Will.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 15,
+          "speakerId": "character:julie-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "sourceSpeakerId": "character:jays-mum"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 193,
+      "originalText": "Yeah, she opened the packet herself!  Don't you boys just love it out here?  Sense of freedom you don't get with other holidays.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 38,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 38,
+          "end": 128,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 194,
+      "originalText": "Right, we'd best be getting ready, Dad.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 39,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 195,
+      "originalText": "Maybe see you later.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 196,
+      "originalText": "Yeah, I'll be there.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 197,
+      "originalText": "Eighting the girls off with a shitty stick!  I don't think he'll need that stick.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 45,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 45,
+          "end": 81,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 198,
+      "originalText": "Looking back, I should have realised that Mr Cartwright's  explosive bowels were a sign of things to come.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 106,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 199,
+      "originalText": "So the big night was finally here.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 34,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 200,
+      "originalText": "The Caravan Club disco and all its delights of the flesh lay just inside  a giant garden shed.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 94,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 201,
+      "originalText": "MUSIC: This Ole House by Shakin' Stevens  As predicted, this is shit.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 42,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 42,
+          "end": 69,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 202,
+      "originalText": "I drove all the way here for this?  It's just getting started.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 36,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 36,
+          "end": 62,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 203,
+      "originalText": "Give it a minute.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 204,
+      "originalText": "Oh, tune!  MUSIC: SexyBack by Justin Timberlake  He's actually quite good.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 11,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 11,
+          "end": 49,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 49,
+          "end": 74,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 205,
+      "originalText": "I'm gonna get some hummous.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 27,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 206,
+      "originalText": "Your ride for the evening is here.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 34,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 207,
+      "originalText": "Do you really think she'll shag me?  Course.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 37,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 208,
+      "originalText": "Why else do you think they come caravanning?  Eresh air?  That text was her way of telling you it is on.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 104,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 209,
+      "originalText": "Shit, amazing.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 14,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 210,
+      "originalText": "I feel a bit weird, though,  cos I always thought I'd lose it with Carli.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 73,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 211,
+      "originalText": "Listen to me, that bird Becky's an animal.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 42,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 212,
+      "originalText": "She'll fuck you till you're blind and teach you all sorts.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 58,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 213,
+      "originalText": "When Carli finds out, she's going to be two things - jealous  and wet, because now she'll know you're a stud.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 109,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 214,
+      "originalText": "You really think so?  Course.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 215,
+      "originalText": "Also, Carli doesn't really fancy you, so if you're waiting to  lose it with her, you're gonna be waiting until you're dead.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 123,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 216,
+      "originalText": "I think she likes me a bit, though.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 35,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 217,
+      "originalText": "No, she doesn't.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 16,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 218,
+      "originalText": "She thinks you're a twat.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 25,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 219,
+      "originalText": "Becky likes you, and she likes sex.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 35,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 220,
+      "originalText": "It's the perfect combination.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 29,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 221,
+      "originalText": "- Just don't go for anal straightaway.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 38,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 222,
+      "originalText": "- OK.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 5,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 223,
+      "originalText": "Thanks, man.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 224,
+      "originalText": "No problem.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 11,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 225,
+      "originalText": "Look, here they come.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 226,
+      "originalText": "Don't worry,  I'll distract Eatty Boom Boom with the buffet.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 60,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 227,
+      "originalText": "So, amazingly, it looked like Simon might actually pull.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 56,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 228,
+      "originalText": "If he could bring himself to speak to her.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 42,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 229,
+      "originalText": "As for the rest of us, I wasn't holding my breath.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 50,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 230,
+      "originalText": "I'd imagine it's a sense of freedom you don't get with other holidays.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 70,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 231,
+      "originalText": "Can I get you some more hummous, William?  Delicious, thank you very much.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 43,
+          "speakerId": "character:caravan-club-pensioner:s01e05",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "identityType": "episode_scoped_role",
+          "sourceSpeakerId": "character:caravan-club-pensioner"
+        },
+        {
+          "start": 43,
+          "end": 74,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 232,
+      "originalText": "Why are you talking to the pensioners?  Oh, just taking the piss.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 40,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 40,
+          "end": 65,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 233,
+      "originalText": "- What, by eating hummous? - Yeah.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 27,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 234,
+      "originalText": "Would you rather eat hummous or take me somewhere quiet?  I think I'd rather take you somewhere quiet.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 58,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 58,
+          "end": 102,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 235,
+      "originalText": "Come over here then.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 236,
+      "originalText": "Sorry, I didn't catch your name.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 32,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 237,
+      "originalText": "I'm Will and I like hummous.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 238,
+      "originalText": "There, I've said it.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 239,
+      "originalText": "Will, two things.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 240,
+      "originalText": "Eor the next few hours,  I don't need you to be charming or sophisticated or even interesting.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 94,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 241,
+      "originalText": "I just need you to be willing.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 30,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 242,
+      "originalText": "Can you handle that?  - I think so.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 22,
+          "end": 35,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 243,
+      "originalText": "- Good.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 7,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 244,
+      "originalText": "And second, kiss me.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 245,
+      "originalText": "Right, OK.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 10,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 246,
+      "originalText": "- What are you doing? - I just need a moment.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 22,
+          "end": 45,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 247,
+      "originalText": "I'm gonna take you outside and I want you to fuck me.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 53,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 248,
+      "originalText": "- Really? - Yes, really.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 10,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 10,
+          "end": 24,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 249,
+      "originalText": "Hang on, we barely know each other.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 35,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 250,
+      "originalText": "We should get to know each other first, shouldn't we?  I mean come on, we're young,  let's have some fun and then fall exhausted into each other's arms.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 152,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 251,
+      "originalText": "I've got an idea.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 252,
+      "originalText": "Did you ever used to skid as a child?  I used to love it.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 57,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 253,
+      "originalText": "Come on! Let's skid!  Whoo!!  Get your shoes off! It's liberating!  Where are you going? Don't you want to skid?  No.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 114,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 114,
+          "end": 117,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 254,
+      "originalText": "What about our lovemaking?  Lovemaking? Gone off it, sorry.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 28,
+          "end": 59,
+          "speakerId": "character:punky-redhead",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 255,
+      "originalText": "Oh.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 3,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 256,
+      "originalText": "Oi, my shoes! Give me back my shoes!  Somehow, in three minutes I'd gone from guaranteed sex to being bullied  by eight-year-olds, and I'm still not entirely sure how that happened.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 38,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 38,
+          "end": 181,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 257,
+      "originalText": "All right, Dad? Thought you was coming to the party?  Yeah, I was.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 54,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 54,
+          "end": 66,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 258,
+      "originalText": "I popped my head in the door and saw you chatting up some fat bird,  - so I didn't want to cramp your style.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 108,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 259,
+      "originalText": "- I weren't chatting her up.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 260,
+      "originalText": "I was keeping her busy while Simon was talking to her mate.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 59,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "I was keeping her busy while Simon was talking to her mate.",
+          "speakers": [
+            "jay"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:260",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 0,
+            "fragment": {
+              "start": 0,
+              "end": 59,
+              "speakers": [
+                "jay"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        }
+      ],
+      "originalProposedTurns": [
+        {
+          "start": 0,
+          "end": 59,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ],
+      "humanReview": {
+        "id": "S01E05:segment:260",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 59,
+            "speakers": [
+              "jay"
+            ]
+          }
+        ],
+        "initialAnswer": {
+          "fragments": [
+            {
+              "start": 0,
+              "end": 59,
+              "speakers": [
+                "jay"
+              ]
+            }
+          ],
+          "savedAt": "2026-11-06T20:02:51.180Z"
+        },
+        "revisions": [],
+        "skipped": false,
+        "state": "user_saved",
+        "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+        "offsetEncoding": "utf16"
+      }
+    },
+    {
+      "sourceIndex": 261,
+      "originalText": "Don't be embarrassed, son.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 26,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 262,
+      "originalText": "If I was as bad with the ladies as you,  I'd have moved on to the fatties months ago.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 85,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 263,
+      "originalText": "Oh, hello, Mr Cartwright.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 25,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 264,
+      "originalText": "Jay.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 4,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 265,
+      "originalText": "All right, Will? You got any action?  - Erm, yeah, I pulled a girl, actually.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 38,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 38,
+          "end": 77,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 266,
+      "originalText": "- Euck off.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 11,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 267,
+      "originalText": "No way.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 7,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 268,
+      "originalText": "Where is she now, then? Cleaning up her beaver for you?  Er, no.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 55,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "Where is she now, then? Cleaning up her beaver for you?",
+          "speakers": [
+            "character:terry-cartwright"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:268",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 0,
+            "fragment": {
+              "start": 0,
+              "end": 55,
+              "speakers": [
+                "character:terry-cartwright"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 55,
+          "end": 57,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "  ",
+          "speakers": [
+            "will"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:268",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 1,
+            "fragment": {
+              "start": 55,
+              "end": 64,
+              "speakers": [
+                "will"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 57,
+          "end": 64,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "Er, no.",
+          "speakers": [
+            "will"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:268",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 1,
+            "fragment": {
+              "start": 55,
+              "end": 64,
+              "speakers": [
+                "will"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        }
+      ],
+      "originalProposedTurns": [
+        {
+          "start": 0,
+          "end": 57,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 57,
+          "end": 64,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ],
+      "humanReview": {
+        "id": "S01E05:segment:268",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 55,
+            "speakers": [
+              "character:terry-cartwright"
+            ]
+          },
+          {
+            "start": 55,
+            "end": 64,
+            "speakers": [
+              "will"
+            ]
+          }
+        ],
+        "initialAnswer": {
+          "fragments": [
+            {
+              "start": 0,
+              "end": 55,
+              "speakers": [
+                "character:terry-cartwright"
+              ]
+            },
+            {
+              "start": 55,
+              "end": 64,
+              "speakers": [
+                "will"
+              ]
+            }
+          ],
+          "savedAt": "2026-11-06T20:01:11.875Z"
+        },
+        "revisions": [],
+        "skipped": false,
+        "state": "user_saved",
+        "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+        "offsetEncoding": "utf16"
+      }
+    },
+    {
+      "sourceIndex": 269,
+      "originalText": "She went off.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 13,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 270,
+      "originalText": "Plenty more fish in the sea.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 271,
+      "originalText": "Jay's harpooned himself a whale.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 32,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 272,
+      "originalText": "Give it a rest, Dad.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 273,
+      "originalText": "I already told you, it's not like that.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 39,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 274,
+      "originalText": "Yeah, and I told you not to be so fussy and to get stuck in.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 60,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 275,
+      "originalText": "You're more likely to get somewhere with a fatso,  cos they're grateful for the attention.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 90,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 276,
+      "originalText": "- Even from a loser like you.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 29,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 277,
+      "originalText": "- Dad.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 6,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 278,
+      "originalText": "They say any port in a storm, and she was the size of a fucking port!  I know what you're up to.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 96,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 279,
+      "originalText": "You think, cos she's so massive, she'll count as two shags.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 59,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 280,
+      "originalText": "Well, she doesn't!  I get plenty of girls.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 20,
+          "end": 42,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 281,
+      "originalText": "No, you bloody don't.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 282,
+      "originalText": "And even if you did,  what could you do with that thing? It's like a McDonald's chip!  - Dad.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 87,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 87,
+          "end": 93,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 283,
+      "originalText": "- You definitely take after your mum  in the cock-size department.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 66,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 284,
+      "originalText": "She ain't got one either!  Dad, can you just leave me alone for once?  Ooh! All right, all right.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 27,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 27,
+          "end": 71,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 71,
+          "end": 97,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 285,
+      "originalText": "Bloody hell, he's just like his mum.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 36,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 286,
+      "originalText": "Make one little joke and he has a shit fit!  Euck this.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 45,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 45,
+          "end": 55,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 287,
+      "originalText": "SQUELCHING  Are these the only toilets, then?  Oh, God.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 12,
+          "end": 55,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 288,
+      "originalText": "I'd give trap number two a couple of minutes.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 45,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 289,
+      "originalText": "I had eggs for lunch.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 290,
+      "originalText": "MUSIC: Careless Whisper by George Michael  Shall we go outside, then?  Yeah, all right.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 43,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 43,
+          "end": 71,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 71,
+          "end": 87,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 291,
+      "originalText": "Eucking hell! Is this really happening?  I'm gonna have sex, aren't I?!  At last.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 81,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 292,
+      "originalText": "Thanks for sorting this, Jay.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 29,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 293,
+      "originalText": "Eill this up for me.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 294,
+      "originalText": "Thanks so much, mate.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 21,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 295,
+      "originalText": "Nice one.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 9,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 296,
+      "originalText": "Gotcha!  SPLASHING  Mr Cartwright, you seem to be splashing me a bit.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 9,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 9,
+          "end": 20,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 20,
+          "end": 69,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 297,
+      "originalText": "Who stole your shoes?  Just some kids.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 23,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 23,
+          "end": 38,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 298,
+      "originalText": "Kids? You let them get away with that?  Laughing at you while you're standing in your piss?  I think it's mostly your piss.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 93,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 93,
+          "end": 123,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 299,
+      "originalText": "Go and get them.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 16,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 300,
+      "originalText": "Show 'em who's boss.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 301,
+      "originalText": "Yeah, OK, I will.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 302,
+      "originalText": "EAR  Better out than in.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 5,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 5,
+          "end": 24,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 303,
+      "originalText": "I'm going to go now, then.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 26,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 304,
+      "originalText": "EAR  ECHOING EAR  MUSIC: It Only Takes A Minute by Take That  I'm curious - are you subversively mocking this place  or are you actually enjoying this hell?  I'm sorry, I have no idea what you're talking about.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 62,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 62,
+          "end": 158,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 158,
+          "end": 210,
+          "speakerId": "character:caravan-club-pensioner:s01e05",
+          "kind": "speech",
+          "attributionBasis": "show_context",
+          "identityType": "episode_scoped_role",
+          "sourceSpeakerId": "character:caravan-club-pensioner"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 305,
+      "originalText": "It only takes a mlnute, glrl To fall In love  I've ripped my top!  Oh, God, sorry, you just turn me on so much.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 46,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 46,
+          "end": 67,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 67,
+          "end": 111,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 306,
+      "originalText": "My parents'll see this.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 23,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 307,
+      "originalText": "What the hell are you doing?!  It's a condom.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 31,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 31,
+          "end": 45,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 308,
+      "originalText": "I thought we should be safe.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 309,
+      "originalText": "Why've you got a condom on?! I'm not going to have sex with you!  You're not? But Jay said  Jay said what?  He said  What? What did Jay say?  MUSIC: Can't Get You Out Of My Head by Kylie Minogue  Hey! How's it feel to be a man, then?  You fucking liar.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 65,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "Why've you got a condom on?! I'm not going to have sex with you! ",
+          "speakers": [
+            "character:becky"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 0,
+            "fragment": {
+              "start": 0,
+              "end": 65,
+              "speakers": [
+                "character:becky"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 65,
+          "end": 66,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": " ",
+          "speakers": [
+            "simon"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 1,
+            "fragment": {
+              "start": 65,
+              "end": 92,
+              "speakers": [
+                "simon"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 66,
+          "end": 92,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "You're not? But Jay said  ",
+          "speakers": [
+            "simon"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 1,
+            "fragment": {
+              "start": 65,
+              "end": 92,
+              "speakers": [
+                "simon"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 92,
+          "end": 108,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "Jay said what?  ",
+          "speakers": [
+            "character:becky"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 2,
+            "fragment": {
+              "start": 92,
+              "end": 108,
+              "speakers": [
+                "character:becky"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 108,
+          "end": 117,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "He said  ",
+          "speakers": [
+            "simon"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 3,
+            "fragment": {
+              "start": 108,
+              "end": 117,
+              "speakers": [
+                "simon"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 117,
+          "end": 142,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "What? What did Jay say?  ",
+          "speakers": [
+            "character:becky"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 4,
+            "fragment": {
+              "start": 117,
+              "end": 142,
+              "speakers": [
+                "character:becky"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 142,
+          "end": 196,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "MUSIC: Can't Get You Out Of My Head by Kylie Minogue  ",
+          "speakers": [
+            "non_dialogue"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 5,
+            "fragment": {
+              "start": 142,
+              "end": 196,
+              "speakers": [
+                "non_dialogue"
+              ]
+            },
+            "originalKind": "stage_direction",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 196,
+          "end": 233,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "Hey! How's it feel to be a man, then?",
+          "speakers": [
+            "jay"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 6,
+            "fragment": {
+              "start": 196,
+              "end": 233,
+              "speakers": [
+                "jay"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 233,
+          "end": 235,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "  ",
+          "speakers": [
+            "simon"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 7,
+            "fragment": {
+              "start": 233,
+              "end": 252,
+              "speakers": [
+                "simon"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 235,
+          "end": 252,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "text": "You fucking liar.",
+          "speakers": [
+            "simon"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:309",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 7,
+            "fragment": {
+              "start": 233,
+              "end": 252,
+              "speakers": [
+                "simon"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        }
+      ],
+      "originalProposedTurns": [
+        {
+          "start": 0,
+          "end": 66,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 66,
+          "end": 92,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 92,
+          "end": 108,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 108,
+          "end": 117,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 117,
+          "end": 142,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 142,
+          "end": 196,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 196,
+          "end": 235,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 235,
+          "end": 252,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ],
+      "humanReview": {
+        "id": "S01E05:segment:309",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 65,
+            "speakers": [
+              "character:becky"
+            ]
+          },
+          {
+            "start": 65,
+            "end": 92,
+            "speakers": [
+              "simon"
+            ]
+          },
+          {
+            "start": 92,
+            "end": 108,
+            "speakers": [
+              "character:becky"
+            ]
+          },
+          {
+            "start": 108,
+            "end": 117,
+            "speakers": [
+              "simon"
+            ]
+          },
+          {
+            "start": 117,
+            "end": 142,
+            "speakers": [
+              "character:becky"
+            ]
+          },
+          {
+            "start": 142,
+            "end": 196,
+            "speakers": [
+              "non_dialogue"
+            ]
+          },
+          {
+            "start": 196,
+            "end": 233,
+            "speakers": [
+              "jay"
+            ]
+          },
+          {
+            "start": 233,
+            "end": 252,
+            "speakers": [
+              "simon"
+            ]
+          }
+        ],
+        "initialAnswer": {
+          "fragments": [
+            {
+              "start": 0,
+              "end": 65,
+              "speakers": [
+                "character:sophie"
+              ]
+            },
+            {
+              "start": 65,
+              "end": 92,
+              "speakers": [
+                "simon"
+              ]
+            },
+            {
+              "start": 92,
+              "end": 108,
+              "speakers": [
+                "character:sophie"
+              ]
+            },
+            {
+              "start": 108,
+              "end": 117,
+              "speakers": [
+                "simon"
+              ]
+            },
+            {
+              "start": 117,
+              "end": 142,
+              "speakers": [
+                "character:sophie"
+              ]
+            },
+            {
+              "start": 142,
+              "end": 196,
+              "speakers": [
+                "non_dialogue"
+              ]
+            },
+            {
+              "start": 196,
+              "end": 233,
+              "speakers": [
+                "jay"
+              ]
+            },
+            {
+              "start": 233,
+              "end": 252,
+              "speakers": [
+                "simon"
+              ]
+            }
+          ],
+          "savedAt": "2026-11-06T20:02:15.415Z"
+        },
+        "revisions": [
+          {
+            "fragments": [
+              {
+                "start": 0,
+                "end": 65,
+                "speakers": [
+                  "character:becky"
+                ]
+              },
+              {
+                "start": 65,
+                "end": 92,
+                "speakers": [
+                  "simon"
+                ]
+              },
+              {
+                "start": 92,
+                "end": 108,
+                "speakers": [
+                  "character:sophie"
+                ]
+              },
+              {
+                "start": 108,
+                "end": 117,
+                "speakers": [
+                  "simon"
+                ]
+              },
+              {
+                "start": 117,
+                "end": 142,
+                "speakers": [
+                  "character:sophie"
+                ]
+              },
+              {
+                "start": 142,
+                "end": 196,
+                "speakers": [
+                  "non_dialogue"
+                ]
+              },
+              {
+                "start": 196,
+                "end": 233,
+                "speakers": [
+                  "jay"
+                ]
+              },
+              {
+                "start": 233,
+                "end": 252,
+                "speakers": [
+                  "simon"
+                ]
+              }
+            ],
+            "savedAt": "2026-11-06T20:02:23.512Z"
+          },
+          {
+            "fragments": [
+              {
+                "start": 0,
+                "end": 65,
+                "speakers": [
+                  "character:becky"
+                ]
+              },
+              {
+                "start": 65,
+                "end": 92,
+                "speakers": [
+                  "simon"
+                ]
+              },
+              {
+                "start": 92,
+                "end": 108,
+                "speakers": [
+                  "character:becky"
+                ]
+              },
+              {
+                "start": 108,
+                "end": 117,
+                "speakers": [
+                  "simon"
+                ]
+              },
+              {
+                "start": 117,
+                "end": 142,
+                "speakers": [
+                  "character:sophie"
+                ]
+              },
+              {
+                "start": 142,
+                "end": 196,
+                "speakers": [
+                  "non_dialogue"
+                ]
+              },
+              {
+                "start": 196,
+                "end": 233,
+                "speakers": [
+                  "jay"
+                ]
+              },
+              {
+                "start": 233,
+                "end": 252,
+                "speakers": [
+                  "simon"
+                ]
+              }
+            ],
+            "savedAt": "2026-11-06T20:02:31.688Z"
+          },
+          {
+            "fragments": [
+              {
+                "start": 0,
+                "end": 65,
+                "speakers": [
+                  "character:becky"
+                ]
+              },
+              {
+                "start": 65,
+                "end": 92,
+                "speakers": [
+                  "simon"
+                ]
+              },
+              {
+                "start": 92,
+                "end": 108,
+                "speakers": [
+                  "character:becky"
+                ]
+              },
+              {
+                "start": 108,
+                "end": 117,
+                "speakers": [
+                  "simon"
+                ]
+              },
+              {
+                "start": 117,
+                "end": 142,
+                "speakers": [
+                  "character:becky"
+                ]
+              },
+              {
+                "start": 142,
+                "end": 196,
+                "speakers": [
+                  "non_dialogue"
+                ]
+              },
+              {
+                "start": 196,
+                "end": 233,
+                "speakers": [
+                  "jay"
+                ]
+              },
+              {
+                "start": 233,
+                "end": 252,
+                "speakers": [
+                  "simon"
+                ]
+              }
+            ],
+            "savedAt": "2026-11-06T20:02:39.138Z"
+          }
+        ],
+        "skipped": false,
+        "state": "user_saved",
+        "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+        "offsetEncoding": "utf16"
+      }
+    },
+    {
+      "sourceIndex": 310,
+      "originalText": "Shagged her and her sister, have you?  Loads of times, yeah?  Untold.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 62,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 62,
+          "end": 69,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 311,
+      "originalText": "Really? Cos she didn't seem that keen, and her sister's 13 years old.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 69,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 312,
+      "originalText": "Well, I haven't actually shagged her and her sister exactly, but other  similar girls.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 86,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 313,
+      "originalText": "Well, thanks for the condom.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 314,
+      "originalText": "I'll be lucky if I'm not on some  sort of paedophile register by the end of the night.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 86,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 315,
+      "originalText": "Oh, fuck, she's talking to her parents.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 39,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 316,
+      "originalText": "We'd better go.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 15,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 317,
+      "originalText": "- Where's Neil? - Don't know and don't care.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 16,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 16,
+          "end": 44,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 318,
+      "originalText": "Let's get out of here.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 319,
+      "originalText": "Will, we're off.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 16,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 320,
+      "originalText": "Will, come on.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 14,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 321,
+      "originalText": "Prick.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 6,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 322,
+      "originalText": "And just when I thought things couldn't get any worse, I then had  to spend a night in a caravan with Jay's dad and his irritable bowel.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 136,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 323,
+      "originalText": "Thanks very much for your hospitality, Mrs Cartwright.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 54,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 324,
+      "originalText": "See you soon, Mr Cartwright.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 325,
+      "originalText": "Cheers, lads.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 13,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 326,
+      "originalText": "Oh, and Simon, don't worry about that Becky business.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 53,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 327,
+      "originalText": "Her dad's calmed down now.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 26,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 328,
+      "originalText": "We were all your age once.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 26,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 329,
+      "originalText": "At least you had a pop, unlike soppy bollocks here.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 51,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 330,
+      "originalText": "Erm, thanks.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 331,
+      "originalText": "Don't mention it.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 17,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 332,
+      "originalText": "Just try not to rape anyone on the way out!  I don't see why I should ever talk to you again,  let alone give you a lift home.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 45,
+          "speakerId": "character:terry-cartwright",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 45,
+          "end": 126,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 333,
+      "originalText": "Look, you're just angry because you didn't get laid.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 52,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 334,
+      "originalText": "Yeah, that's it.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 16,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 335,
+      "originalText": "Let's just get out of this dump, and please God, don't let me ever  - have to come back to a caravan park.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 106,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 336,
+      "originalText": "- All right?  - Where have you been? - I slept in the car.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 14,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 14,
+          "end": 37,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 37,
+          "end": 58,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 337,
+      "originalText": "Shall we go then? Shotgun.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 18,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 338,
+      "originalText": "My seat's a bit wet.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 339,
+      "originalText": "Mine is, too.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 13,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 340,
+      "originalText": "Yeah, it's wet here as well.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 341,
+      "originalText": "Neil, did you wet yourself in my new car?  It's not really new.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 43,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 43,
+          "end": 63,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 342,
+      "originalText": "Did you wet yourself?  No.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 23,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 23,
+          "end": 26,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 343,
+      "originalText": "But I did have a bird back in here.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 35,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 344,
+      "originalText": "You fucked a girl in my car?!  No, it's too small.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 31,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 31,
+          "end": 50,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 345,
+      "originalText": "Did a lot of fingering, though.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 31,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 346,
+      "originalText": "She wanked me off a few times.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 30,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 347,
+      "originalText": "- (All) Ohhhh! - God!  Get me out of here!  Neil!  - Bloody hell! - Disgusting.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 15,
+          "speakerId": null,
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "uncertaintyReason": "Overlapping reactions from Will, Simon and Jay; individual exclamations cannot be separated reliably from text.",
+          "text": "- (All) Ohhhh! ",
+          "speakers": [
+            "jay",
+            "will",
+            "simon"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:347",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 0,
+            "fragment": {
+              "start": 0,
+              "end": 15,
+              "speakers": [
+                "jay",
+                "will",
+                "simon"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 15,
+          "end": 44,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "uncertaintyReason": "Overlapping reactions from Will, Simon and Jay; individual exclamations cannot be separated reliably from text.",
+          "text": "- God!  Get me out of here!  ",
+          "speakers": [
+            "simon"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:347",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 1,
+            "fragment": {
+              "start": 15,
+              "end": 44,
+              "speakers": [
+                "simon"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 44,
+          "end": 51,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "uncertaintyReason": "Overlapping reactions from Will, Simon and Jay; individual exclamations cannot be separated reliably from text.",
+          "text": "Neil!  ",
+          "speakers": [
+            "jay"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:347",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 2,
+            "fragment": {
+              "start": 44,
+              "end": 51,
+              "speakers": [
+                "jay"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        },
+        {
+          "start": 51,
+          "end": 79,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "Explicit human review fragment",
+          "uncertaintyReason": "Overlapping reactions from Will, Simon and Jay; individual exclamations cannot be separated reliably from text.",
+          "text": "- Bloody hell! - Disgusting.",
+          "speakers": [
+            "simon"
+          ],
+          "humanReview": {
+            "state": "user_saved",
+            "itemId": "S01E05:segment:347",
+            "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+            "fragmentIndex": 3,
+            "fragment": {
+              "start": 51,
+              "end": 79,
+              "speakers": [
+                "simon"
+              ]
+            },
+            "originalKind": "speech",
+            "offsetEncoding": "utf16"
+          }
+        }
+      ],
+      "originalProposedTurns": [
+        {
+          "start": 0,
+          "end": 79,
+          "speakerId": "unknown",
+          "kind": "speech",
+          "attributionBasis": "unknown",
+          "uncertaintyReason": "Overlapping reactions from Will, Simon and Jay; individual exclamations cannot be separated reliably from text."
+        }
+      ],
+      "humanReview": {
+        "id": "S01E05:segment:347",
+        "fragments": [
+          {
+            "start": 0,
+            "end": 15,
+            "speakers": [
+              "jay",
+              "will",
+              "simon"
+            ]
+          },
+          {
+            "start": 15,
+            "end": 44,
+            "speakers": [
+              "simon"
+            ]
+          },
+          {
+            "start": 44,
+            "end": 51,
+            "speakers": [
+              "jay"
+            ]
+          },
+          {
+            "start": 51,
+            "end": 79,
+            "speakers": [
+              "simon"
+            ]
+          }
+        ],
+        "initialAnswer": {
+          "fragments": [
+            {
+              "start": 0,
+              "end": 15,
+              "speakers": [
+                "jay",
+                "will",
+                "simon"
+              ]
+            },
+            {
+              "start": 15,
+              "end": 44,
+              "speakers": [
+                "simon"
+              ]
+            },
+            {
+              "start": 44,
+              "end": 51,
+              "speakers": [
+                "jay"
+              ]
+            },
+            {
+              "start": 51,
+              "end": 79,
+              "speakers": [
+                "simon"
+              ]
+            }
+          ],
+          "savedAt": "2026-11-06T18:03:58.062Z"
+        },
+        "revisions": [],
+        "skipped": false,
+        "state": "user_saved",
+        "exportSha256": "f8589707c158d9c46b0a1275534403ce2fd7eb8d4b8e17cf49711f63ac487cae",
+        "offsetEncoding": "utf16"
+      }
+    },
+    {
+      "sourceIndex": 348,
+      "originalText": "Thanks, Neil!  Who was she, then?  Some sort of punky redhead.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 15,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 15,
+          "end": 35,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 35,
+          "end": 62,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 349,
+      "originalText": "She was nice.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 13,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 350,
+      "originalText": "She was mine! Oh, God.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 351,
+      "originalText": "We can't stay here.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 19,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 352,
+      "originalText": "I'm not getting back in the spunkmobile.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 40,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 353,
+      "originalText": "- Clean it up, Neil.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 354,
+      "originalText": "- Why?  Because you have spunked on my seats!  Oh, God, this weekend has been a disaster.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 8,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 8,
+          "end": 47,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 47,
+          "end": 89,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 355,
+      "originalText": "One good thing is we've learned the Caravan Club is shit  and that Jay is a liar.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 81,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 356,
+      "originalText": "Oh, I'm such a liar? That Neil got some?  No  Neil got some.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 42,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 42,
+          "end": 46,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 46,
+          "end": 60,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 357,
+      "originalText": "- You lied.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 11,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 358,
+      "originalText": "- Clean it up, Neil.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 359,
+      "originalText": "It's your car.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 14,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 360,
+      "originalText": "It's your spunk!  Some of it could be her juice.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 18,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 18,
+          "end": 48,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 361,
+      "originalText": "- Did Neil get any? - That's not the point.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 20,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 20,
+          "end": 43,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 362,
+      "originalText": "- Yes or no - did Neil get some? - You lie.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 33,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 33,
+          "end": 43,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 363,
+      "originalText": "And I want petrol money.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 24,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 364,
+      "originalText": "- Eor what? - Eor petrol! Money for petrol.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 12,
+          "speakerId": "jay",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 12,
+          "end": 43,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 365,
+      "originalText": "I'm not sure what we learned from this whole sorry episode, apart from -  never take advice from Jay  - But Jay said - Jay said what?  when you are offered sex, don't skid  Woo!  and never, never follow Mr Cartwright into the toilet.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 102,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 102,
+          "end": 117,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 117,
+          "end": 135,
+          "speakerId": "character:becky",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 135,
+          "end": 173,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 173,
+          "end": 179,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 179,
+          "end": 233,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 366,
+      "originalText": "My eyes are burning!  But as we stood arguing on the side of the A2, one thing was for sure.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 22,
+          "speakerId": "will",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 22,
+          "end": 92,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 367,
+      "originalText": "Neil can produce an unholy amount of spunk.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 43,
+          "speakerId": "will",
+          "kind": "narration",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 368,
+      "originalText": "And I want this cleaned now.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 28,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 369,
+      "originalText": "No, it's in your car, so it's yours.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 36,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 370,
+      "originalText": "Oh, so if I spunk on you, that's yours, is it?  No.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 48,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        },
+        {
+          "start": 48,
+          "end": 51,
+          "speakerId": "neil",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 371,
+      "originalText": "You are fucking disgusting.",
+      "turns": [
+        {
+          "start": 0,
+          "end": 27,
+          "speakerId": "simon",
+          "kind": "speech",
+          "attributionBasis": "show_context"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 372,
+      "originalText": "The boy's a slag  The best you ever had  The best you ever had Is just a memory  And those dreams  As daft as they seem As daft as they seem  My love, when you dream them up",
+      "turns": [
+        {
+          "start": 0,
+          "end": 173,
+          "speakerId": null,
+          "kind": "stage_direction",
+          "attributionBasis": "show_context"
+        }
+      ]
+    }
+  ],
+  "characterNormalization": "Established aliases and episode-scoped anonymous roles; original IDs retained per changed turn."
+}
